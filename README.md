@@ -14,9 +14,13 @@ Checke, ob es sich um dBase Version 3 handelt? > Korrekt.
 12 gelesene Header-Daten Zeichen...
 
 dBase - Version         :        3
+
 Headerlaenge (Bytes)    :        129
+
 Zahl der Datensaetze    :        5
+
 Datensatzlaenge (Bytes) :        239
+
 
 
 Rohdaten:
