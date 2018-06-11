@@ -1,8 +1,11 @@
 # Ausgabe:
 
 Datenbankdatei (dBase III): SPRUCH.DBF exitierst
+
 Lua - Datei: TEST.LUA exitierst
+
 Datenbankdatei (dBase III): SPRUCH.DBF erfolgreich geoeffnet.
+
 Lua - Datei: TEST.LUA erfolgreich geoeffnet.
 
 
